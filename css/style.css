@@ -1,0 +1,13 @@
+.nav-link {
+    color: #ffffff;
+}
+.container {
+    background-color: beige;
+    border-style: outset;
+}
+.p-2 {
+    font-weight: bold;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
